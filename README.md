@@ -12,7 +12,7 @@ pip install pyppeteer
 pip install pandas
 ```            
 ## Usage
-
+In app.py, on line no.8 in executable path argument give path of chrome.exe present in your computer.
 ```md
 python app.py
 ```   
